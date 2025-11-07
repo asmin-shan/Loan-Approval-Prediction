@@ -1,2 +1,1 @@
-# Loan-Approval-Prediction
-Develops and evaluates machine learning models—specifically a tuned GradientBoostingClassifier—to predict a continuous Risk Score and the final Loan Approval decision based on financial and credit history data.
+This project develops machine learning models to analyze financial risk and predict loan approval based on a comprehensive dataset of loan applicants. It addresses two primary objectives: Risk Score Regression to predict a continuous risk score, and Binary Classification to determine the final loan approval outcome.
